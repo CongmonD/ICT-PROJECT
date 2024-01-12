@@ -1,0 +1,74 @@
+	body {
+		background-image: url(https://asianews.network/wp-content/uploads/bfi_thumb/PHILIPPINE-EAGLE-768x461-1-7a4xvyw0xbvjcm05n5y89nxw354c1s31u8sfslwe7uo.jpg);
+		background-size: cover;
+		font-family:monospace;
+	}
+
+.header {
+	background-color:white;
+	margin: 5px;
+	padding:10px;
+}
+
+.firstplace {
+	flex-wrap: wrap;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+
+.Palawan {
+	background-color: white; width: 360px;
+	padding:10px;
+	text-center: center;
+	margin: 5px;
+}
+
+.picture1sentence {
+	background-color: white; width: 360px;
+	padding:10px;
+	text-center: center;
+	margin: 5px;
+}
+
+.secondpicture {
+	flex-wrap: wrap;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+
+.Bohol {
+	background-color: white; width: 360px;
+	padding:10px;
+	text-center: center;
+	margin: 5px;
+}
+
+.picture2sentence {
+	background-color: white; width: 360px;
+	padding:10px;
+	text-center: center;
+	margin: 5px
+}
+
+.thirdpicture {
+	flex-wrap: wrap;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+
+.Boracay {
+	background-color: white; width: 360px;
+	padding:10px;
+	text-center: center;
+	margin: 5px;
+}
+
+.picture3sentence {
+	background-color: white; width: 360px;
+	padding:10px;
+	text-center: center;
+	margin: 5px;
+}
